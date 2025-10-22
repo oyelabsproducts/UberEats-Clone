@@ -21,7 +21,7 @@ An UberEats clone app built using PHP, Laravel, with mobile apps developed in Fl
 
 # Launching Your UberEats Clone: A Complete Guide
 
-Ready to enter the food delivery market? Launching an [UberEats Clone](https://oyelabs.com/ubereats-clone-app-development/) is a practical way to get started. This guide walks you through the key steps and features to make your app functional and user-friendly.
+Ready to enter the food delivery market? Launching an [UberEats Clone](https://oyelabs.com/ubereats-clone/) is a practical way to get started. This guide walks you through the key steps and features to make your app functional and user-friendly.
 
 ### 1. Understanding the UberEats Clone App
 
@@ -54,4 +54,4 @@ Allow potential customers and restaurants to test the app. Hands-on experience b
 
 ### 🌐 Sources
 
-- [Oyelabs.com – UberEats Clone | Launch Your Own Food Delivery App](https://oyelabs.com/ubereats-clone-app-development/)
+- [Oyelabs.com – UberEats Clone | Launch Your Own Food Delivery App](https://oyelabs.com/ubereats-clone/)
